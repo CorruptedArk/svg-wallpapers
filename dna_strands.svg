@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -15,7 +13,7 @@
    viewBox="0 0 0.01366 0.00768"
    version="1.1"
    id="svg1990"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="dna_strands.svg"
    inkscape:export-filename="/home/noahstanford/Pictures/drawings/inkscape work/dna_strands_skull.png"
    inkscape:export-xdpi="96"
@@ -84,9 +82,9 @@
      units="px"
      inkscape:pagecheckerboard="true"
      scale-x="1e-05"
-     inkscape:window-width="761"
-     inkscape:window-height="411"
-     inkscape:window-x="824"
+     inkscape:window-width="1366"
+     inkscape:window-height="427"
+     inkscape:window-x="0"
      inkscape:window-y="480"
      inkscape:window-maximized="0"
      borderlayer="true"
@@ -97,7 +95,8 @@
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="false"
      inkscape:snap-object-midpoints="true"
-     inkscape:lockguides="false" />
+     inkscape:lockguides="false"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata1987">
     <rdf:RDF>
@@ -107,7 +106,24 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g

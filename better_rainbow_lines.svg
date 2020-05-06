@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -15,7 +13,7 @@
    viewBox="0 0 361.42082 203.20001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="better_rainbow_lines.svg"
    inkscape:export-filename="/home/noahstanford/Pictures/drawings/inkscape work/better_rainbow_lines.png"
    inkscape:export-xdpi="96"
@@ -267,15 +265,16 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="700"
+     inkscape:window-height="427"
      inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
+     inkscape:window-y="320"
+     inkscape:window-maximized="0"
      inkscape:lockguides="true"
      scale-x="0.66458"
      inkscape:snap-bbox="false"
      inkscape:snap-global="true"
-     inkscape:snap-object-midpoints="true" />
+     inkscape:snap-object-midpoints="true"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -285,7 +284,24 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -3476,76 +3492,78 @@
            y="341.57144"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
          id="flowPara923"
-         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium Italic';fill:#686868;fill-opacity:1">CA</flowPara></flowRoot>    <flowRoot
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium Italic';fill:#686868;fill-opacity:1">CA</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot6451"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6453"><rect
            id="rect6455"
            width="73.321663"
            height="73.321663"
            x="643.96173"
            y="344.96188" /></flowRegion><flowPara
-         id="flowPara6457" /></flowRoot>    <flowRoot
+         id="flowPara6457" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot6459"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Vemana2000;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:Vemana2000;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Vemana2000;-inkscape-font-specification:Vemana2000;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6461"><rect
            id="rect6463"
            width="478.96899"
            height="478.96921"
            x="458.27982"
            y="159.27979" /></flowRegion><flowPara
-         id="flowPara6465" /></flowRoot>    <flowRoot
+         id="flowPara6465" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot6956"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Vemana2000;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:Vemana2000;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Vemana2000;-inkscape-font-specification:Vemana2000;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6958"><rect
            id="rect6960"
            width="145.664"
            height="288.49957"
            x="272.94321"
            y="154.23131" /></flowRegion><flowPara
-         id="flowPara6962" /></flowRoot>    <flowRoot
+         id="flowPara6962" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot6964"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Vemana2000;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:Vemana2000;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Vemana2000;-inkscape-font-specification:Vemana2000;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6966"><rect
            id="rect6968"
            width="110.1241"
            height="250.80666"
            x="350.72498"
            y="277.26788" /></flowRegion><flowPara
-         id="flowPara6970" /></flowRoot>    <flowRoot
+         id="flowPara6970" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot6972"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Vemana2000;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:Vemana2000;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Vemana2000;-inkscape-font-specification:Vemana2000;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6974"><rect
            id="rect6976"
            width="103.90761"
            height="267.21738"
            x="395.9798"
            y="299.89532" /></flowRegion><flowPara
-         id="flowPara6978" /></flowRoot>    <flowRoot
+         id="flowPara6978" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot6980"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Vemana2000;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:Vemana2000;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Vemana2000;-inkscape-font-specification:Vemana2000;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6982"><rect
            id="rect6984"
            width="177.67308"
            height="139.71178"
            x="383.25186"
            y="366.36334" /></flowRegion><flowPara
-         id="flowPara6986" /></flowRoot>    <text
+         id="flowPara6986" /></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.41786766px;line-height:1.25;font-family:Vemana2000;-inkscape-font-specification:Vemana2000;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46044669"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4179px;line-height:1.25;font-family:Vemana2000;-inkscape-font-specification:Vemana2000;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.460447"
        x="120.93317"
        y="175.49112"
-       id="text6990"><tspan
-         sodipodi:role="line"
-         x="120.93317"
-         y="187.21645"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lohit Odia';-inkscape-font-specification:'Lohit Odia';fill:#ffffff;stroke-width:0.46044669"
-         id="tspan7002" /></text>
+       id="text6990" />
   </g>
 </svg>
